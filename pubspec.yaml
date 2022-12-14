@@ -81,7 +81,7 @@ dependencies:
   yaml: ^3.1.1
   yaru: ^0.4.1
   yaru_colors: ^0.1.1
-  yaru_icons: ^0.2.6
+  yaru_icons: ^1.0.0
   yaru_widgets: # TODO: ^2.0.0
     git:
       url: https://github.com/ubuntu/yaru_widgets.git
